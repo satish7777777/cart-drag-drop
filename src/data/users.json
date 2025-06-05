@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "placeName": "Eiffel Tower",
+    "review": 4.8,
+    "noofReviews": 1234,
+    "reviewContent": "An iconic symbol of Paris with breathtaking views.",
+    "image":"https://images.pexels.com/photos/17364074/pexels-photo-17364074/free-photo-of-a-distance-sign-at-a-port-in-john-ogroats-scotland.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "placeName": "Great Wall of China",
+    "review": 4.9,
+    "noofReviews": 2156,
+    "reviewContent": "A stunning piece of history stretching across mountains.",
+    "image": "https://images.pexels.com/photos/17364074/pexels-photo-17364074/free-photo-of-a-distance-sign-at-a-port-in-john-ogroats-scotland.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "placeName": "Taj Mahal",
+    "review": 4.7,
+    "noofReviews": 1980,
+    "reviewContent": "A beautiful monument of love, must-visit in India.",
+    "image": "https://images.pexels.com/photos/17364074/pexels-photo-17364074/free-photo-of-a-distance-sign-at-a-port-in-john-ogroats-scotland.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
