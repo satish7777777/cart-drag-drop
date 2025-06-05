@@ -58,20 +58,10 @@ export async function PUT(req: NextRequest) {
 }
 
 // DELETE user
-// export async function DELETE(req: NextRequest) {
-//   try {
-//     const { id } = await req.json();
-
-//     await prisma.user.delete({ where: { id } });
-//     return new NextResponse(null, { status: 204 });
-//   } catch (error) {
-//     console.error('Failed to delete user:', error);
-//     return NextResponse.json({ error: 'Failed to delete user' }, { status: 500 });
-//   }
-// }
-export async function DELETE(req: NextRequest, { params }: { params: { id: string } }) {
-  const id = parseInt(params.id);
+export async function DELETE(req: NextRequest) {
   try {
+    const { id } = await req.json();
+
     await prisma.user.delete({ where: { id } });
     return new NextResponse(null, { status: 204 });
   } catch (error) {
@@ -79,3 +69,4 @@ export async function DELETE(req: NextRequest, { params }: { params: { id: strin
     return NextResponse.json({ error: 'Failed to delete user' }, { status: 500 });
   }
 }
+

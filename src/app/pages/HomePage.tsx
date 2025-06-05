@@ -56,7 +56,7 @@ export default function Home() {
   };
 
   const handleDelete = async (id: number) => {
-    await axios.delete(`/api/users/${id}`);
+    await axios.delete('/api/users', { data: { id } });
     fetchUsers();
   };
 
