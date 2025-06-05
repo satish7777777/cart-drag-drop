@@ -4,15 +4,47 @@
     "placeName": "Delhi",
     "review": 2,
     "noofReviews": 2131,
-    "reviewContent": "dfvd",
-    "image": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-souvenirpixels-414612.jpg&fm=jpg"
+    "reviewContent": "From the early 13th century until the mid-19th century, Delhi was the capital of two major empires, the Delhi Sultanate and the Mughal Empire, which covered large parts of South Asia. ",
+    "image": "https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": 1749109784799,
+    "id": 2,
     "placeName": "Rishikesh",
     "review": 2,
     "noofReviews": 234,
-    "reviewContent": "hgfhbg",
-    "image": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-souvenirpixels-414612.jpg&fm=jpg"
+    "reviewContent": "Rishikesh is a holy town with so many Ashrams and it is famous for the yoga world wide. Rishikesh is now world famous as a Yoga Capital of the world.",
+    "image": "https://images.pexels.com/photos/20035462/pexels-photo-20035462/free-photo-of-elderly-woman-meditating-in-front-of-a-statue-of-parvati-on-the-ganges.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "placeName": "Manali",
+    "review": 4.5,
+    "noofReviews": 874,
+    "reviewContent": "Snowy mountains and peaceful vibes.",
+    "image": "https://images.pexels.com/photos/1230673/pexels-photo-1230673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": 4,
+    "placeName": "Jaipur",
+    "review": 4.2,
+    "noofReviews": 652,
+    "reviewContent": "The pink city filled with culture.",
+    "image": "https://images.pexels.com/photos/460376/pexels-photo-460376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": 5,
+    "placeName": "Varanasi",
+    "review": 4.8,
+    "noofReviews": 1092,
+    "reviewContent": "Spiritual capital with rich heritage.",
+    "image": "https://images.pexels.com/photos/1632783/pexels-photo-1632783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": 6,
+    "placeName": "Goa",
+    "review": 4.7,
+    "noofReviews": 1892,
+    "reviewContent": "Perfect mix of beach and nightlife.",
+    "image": "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   }
 ]
